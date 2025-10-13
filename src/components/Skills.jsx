@@ -1,4 +1,3 @@
-import React from "react";
 import { skills } from "../data";
 import SectionTitle from "./SectionTitle";
 import SkillCard from "./SkillCard";

@@ -1,7 +1,7 @@
 import { links } from "../data";
 const Navbar = () => {
   return (
-    <nav className="bg-emerald-100">
+    <nav className="bg-sky-100">
       <div className="mx-auto max-w-7xl px-8 py-4 flex flex-col sm:flex-row sm:gap-x-16 sm:items-center sm:py-8">
         <h2 className="text-3xl capitalize font-bold">
           web<span className="text-emerald-600">dev</span>

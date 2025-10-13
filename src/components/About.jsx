@@ -8,10 +8,8 @@ const About = () => {
         <article>
           <SectionTitle text="code and coffe" />
           <p className="text-slate-600  mt-8 leading-loose">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore
-            enim nemo labore beatae laudantium modi placeat perferendis cum
-            sapiente cumque aliquam quas vel corrupti suscipit, aspernatur
-            nobis. Consectetur, eveniet nobis!
+            I’m a Front-End Developer focused on building clean, responsive, and user-friendly web interfaces using modern tools like React, Tailwind, and JavaScript.
+            I enjoy turning complex ideas into seamless digital experiences with performance and accessibility in mind.
           </p>
         </article>
       </div>
