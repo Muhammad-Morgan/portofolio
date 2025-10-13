@@ -1,4 +1,4 @@
-import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from "react-icons/fa";
+import { FaGithubSquare } from "react-icons/fa";
 import { TbWorldWww } from "react-icons/tb";
 const Project = ({ url, img, github, text, title }) => {
   return (
@@ -16,7 +16,7 @@ const Project = ({ url, img, github, text, title }) => {
             <TbWorldWww className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
           </a>
           <a href={github}>
-            <FaTwitterSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
+            <FaGithubSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
           </a>
         </div>
       </div>
