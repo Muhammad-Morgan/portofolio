@@ -2,7 +2,7 @@ import heroImg from "../assets/hero.svg";
 import { FaGithubSquare, FaLinkedin } from "react-icons/fa";
 const Hero = () => {
   return (
-    <section className="bg-blue-400 py-24">
+    <section className="bg-blue-100 py-24">
       <div className="align-element grid  md:grid-cols-2 items-center md:gap-8">
         <article>
           <h1 className="text-7xl font-bold tracking-wider">I'm Morgan</h1>
